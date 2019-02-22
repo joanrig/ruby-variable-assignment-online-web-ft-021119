@@ -15,6 +15,6 @@ def reverse_on_diagonals(matrix)
   d = matrix.last.first
 
   a,b = b,a
-  c,d = d,c
+  c,d = d,c}
   binding.pry
 end
