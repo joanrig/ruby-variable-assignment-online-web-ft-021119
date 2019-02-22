@@ -13,8 +13,8 @@ def reverse_on_diagonals(matrix)
 
   c = matrix.first.last
   d = matrix.last.first
-
+  binding.pry
   a,b = b,a
   c,d = d,c}
-  binding.pry
+
 end
